@@ -1,2 +1,2 @@
 # Poker
-Lets play
+Lets play.
